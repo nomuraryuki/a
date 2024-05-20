@@ -57,7 +57,7 @@ public class CalcApplication extends Application {
             }
             resultField.setText(String.valueOf(result));
         });
-
+//
         root.add(num1Label, 0, 0);
         root.add(num1Field, 1, 0);
         root.add(num2Label, 0, 1);
